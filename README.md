@@ -6,16 +6,6 @@ The system extracts text from resumes, processes it using TF-IDF vectorization, 
 
 ---
 
-## 🚀 Live Demo
-
-Deployed using **Streamlit + Render**
-
-```
-https://resume-screening-ml-rkwj.onrender.com
-```
-
----
-
 # 📌 Features
 
 * 📄 Upload Resume in **PDF format**
@@ -48,12 +38,6 @@ https://resume-screening-ml-rkwj.onrender.com
 * pdfplumber
 * streamlit
 * pickle
-
-### Deployment
-
-* Render
-
----
 
 # 🧠 Machine Learning Workflow
 
@@ -188,15 +172,15 @@ streamlit run app.py --server.port $PORT --server.address 0.0.0.0
 
 # 👨‍💻 Author
 
-**Karthik Chilumula**
+**Alok Mehata**
 
 B.Tech CSE Student
-Aspiring Software Developer | Machine Learning Enthusiast
+Machine Learning Enthusiast
 
 GitHub:
 
 ```
-https://github.com/KarthikChilumula685
+https://github.com/alokmehata0403
 ```
 
 ---
